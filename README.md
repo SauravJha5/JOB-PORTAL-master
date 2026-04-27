@@ -1,6 +1,7 @@
 # MERN Stack Job Portal
 
 Welcome to the Job Portal project! This project is a job portal application built using the MERN stack (MongoDB, Express, React, Node.js).
+http://localhost:5173/Jobs
 
 ## Table of Contents
 
